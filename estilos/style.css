@@ -60,7 +60,7 @@ section#botoes img:hover{
     top: 4px;
     right: 4px;
     transition: 1s;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.397);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0);
 }
 
 section#botoes p{
